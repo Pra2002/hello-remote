@@ -1,4 +1,4 @@
 import sys
 name = sys.argv[1]
 
-print("welcome {} ".format(name))
+print("welcome {} git".format(name))
